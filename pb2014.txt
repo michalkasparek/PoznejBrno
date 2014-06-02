@@ -1,6 +1,6 @@
 ﻿# Kouzlo jedenáctek. Krátce k novému vydání
 
-Za poslední dva roky v Brně otevřely desítky nových báječných podniků. Čtete proto nové, doplněné vydání _Průvodce místy, která nenajdete v průvodcích_.
+Za pouhé dva roky od sepsání mého _Průvodce místy, která nenajdete v průvodcích_ v Brně otevřely desítky nových báječných podniků. Čtete proto zbrusu nové vydání knížky, která je teď už rovnou koncipovaná jako dvouročenka.
 
 Pamětníci si všimnou nové, přehlednější struktury. Aktualizovaná část, nazvaná „Rukověť buržoazního životního stylu“, je rozdělená do jedenácti kapitol o jedenácti tipech. To číslo má v Brně svou mystiku. Katedrála odbíjí poledne už v jedenáct, což podle pověsti na poslední chvíli odradilo švédské vojsko, které si 23. srpna 1645 uložilo deadline pro dobytí města na dvanáctou. (Mohli jsme mít švédské platy, efektivní stát, protestantskou morálku a rovné postavení žen – místo toho máme každý srpen Den Brna.)
 
@@ -506,7 +506,7 @@ Jakubská 4, Jiráskova 44, [hotelpegas.cz](http://hotelpegas.cz)
 
 ### Jednou větou
 
-Jméno si dělá nejnovější a nejmenší z malých pivovarů, Lucky Bastard – okoštujete nárazově na „třetích“ (tedy ochutnávkových) pípách výše doporučených pivnic a v pivotékách. ([lucky-bastard.cz](http://lucky-bastard.cz)) | Trojkou mezi malými pivovary je pro mě Líšeňský. (Kotlanova 5, [lisenskypivovar.cz](http://lisenskypivovar.cz).) | Čtyřkou Richard. (Ríšova 12 v Žebětíně, Údolní 7 v centru, [pivo-richard.cz](http://pivo-richard.cz)) | Dobrou Chotěboř točí naproti Ochutnávkové u Jeníka, ve všední dny mimochodem otvírají už v poledne. (Lidická 5a) | Nejstarší nekuřáckou pivnici v Brně, Hluchou zmiji, najdete na Veveří i v Černých Polích, a spíš než výchozí poličku a dudáka doporučuju ochutnávky. (Veveří 55, Merhautova 96) |  Kuřácký výčep U Srdcí (též známý jako „Hercny“) se úspěšně snaží s ochutnávkami, navíc oceňuju už vzácnou metalovou atmosféru. (Poděbradova 12) | Zámecké pivo z Bratčic (dříve Oslavany) točí přímo v podnikové restauraci U třech čertů, kde se dají v parnu vysadit okna. (Dvořákova 8) | Vedle Lužánek dostanete výbornou poličku a moc dobrý škvarkový chléb v kuřácké pivnici U Míče. (Staňkova 15) | Pro popíjení u vody doporučuju stánek U Hříbku na Sokolském koupališti na přehradě. (49.242609, 16.512267) | U zastávky Přístaviště se hned na začátku řádky hospod obklopujících cestu k vodě krčí půvabná zahrádka nazvaná Včelínek a krom rukodělného medového piva Kvasar ze Sentic v ní dostanete i chleba s medem z lokální farmy. (Přístavní ulice, [vcelinek.cz](http://vcelinek.cz)) | V Lužánkách čeká prima zahrádka s poutníkem a chlebem se sádlem Na Tenise. (nalevo od ústí Burešovy ulice do parku Lužánky) | Nebudeme se nad Starobrnem ofrňovat moc, jsou i horší piva, a pivovarská zahrádka je vlastně příjemná. (Mendlovo náměstí 20) | Na protější straně Mendláku je hned mezi nemocnicí U Svaté Anny  a pohřební službou pivnice U Všech svatých s dobrým poutníkem a zahrádkou, na níž vás budou ovívat záchranářské vrtulníky. (Mendlovo náměstí 8) | Viz též prodejny piva v kapitole Potraviny.
+Jméno si dělá nejnovější a nejmenší z malých pivovarů, Lucky Bastard – okoštujete nárazově na „třetích“ (tedy ochutnávkových) pípách výše doporučených pivnic a v pivotékách. ([lucky-bastard.cz](http://lucky-bastard.cz)) | Trojkou mezi malými pivovary je pro mě Líšeňský. (Kotlanova 5, [lisenskypivovar.cz](http://lisenskypivovar.cz).) | Čtyřkou Richard. (Ríšova 12 v Žebětíně, Údolní 7 v centru, [pivo-richard.cz](http://pivo-richard.cz)) | Dobrou Chotěboř točí naproti Ochutnávkové u Jeníka, ve všední dny mimochodem otvírají už v poledne. (Lidická 5a) | Nejstarší nekuřáckou pivnici v Brně, Hluchou zmiji, najdete na Veveří i v Černých Polích, a spíš než výchozí poličku a dudáka doporučuju ochutnávky. (Veveří 55, Merhautova 96) |  Kuřácký výčep U Srdcí (též známý jako „Hercny“) se úspěšně snaží s ochutnávkami, navíc oceňuju už vzácnou metalovou atmosféru. (Poděbradova 12) | Zámecké pivo z Bratčic (dříve Oslavany) točí přímo v podnikové restauraci U třech čertů, kde se dají v parnu vysadit okna. (Dvořákova 8) | Vedle Lužánek dostanete výbornou poličku a moc dobrý škvarkový chléb v kuřácké pivnici U Míče. (Staňkova 15) | Pro popíjení u vody doporučuju stánek U Hříbku na Sokolském koupališti na přehradě. (49.242609, 16.512267) | U zastávky Přístaviště se hned na začátku řádky hospod obklopujících cestu k vodě krčí půvabná zahrádka nazvaná Včelínek a krom rukodělného medového piva Kvasar ze Sentic v ní dostanete i chleba s medem z lokální farmy. (Přístavní ulice, [vcelinek.cz](http://vcelinek.cz)) | V Lužánkách čeká prima zahrádka s poutníkem a chlebem se sádlem Na Tenise. (nalevo od ústí Burešovy ulice do parku Lužánky) | Nebudeme se nad Starobrnem ofrňovat moc, jsou i horší piva, a pivovarská zahrádka je vlastně příjemná. (Mendlovo náměstí 20) | Na protější straně Mendláku je hned mezi nemocnicí U Svaté Anny  a pohřební službou pivnice U Všech svatých s dobrým poutníkem a zahrádkou, na níž vás budou ovívat záchranářské vrtulníky. (Mendlovo náměstí 8) | Viz též prodejny piva v kapitole Lahůdky.
 
 ## Bary a vinárny
 
@@ -600,7 +600,7 @@ Sem se nechodí na stařený manhattan, sem se chodí dojíždět. Když už jso
 
 Po večeři v Pavillonu můžete pokračovat na drink hned do suterénu, do stylového leteckého baru Runway, taktéž navrženého architektem Danielem Pirščem. (Jezuitská 6, [restaurant-pavillon.cz](http://restaurant-pavillon.cz)) | Krátce po dokončení průvodce, v červnu 2014, otevírají kluci z Baru, který neexistuje, komorní Super Panda Circus. (roh Pekařské a Šilingrova náměstí) | Bar East Village připomíná burgrárnu a nálevnu kdesi uprostřed Louisiany, což umocňují (lehce zmatení) američtí číšníci. (Jaselská 2) | Whisky Bar Valevil nabízí vedle ostrovních whisek taky skotský národní pokrm haggis. (Kopečná 14, [whiskybarvalevil.cz](http://whiskybarvalevil.cz)) | Dobré víno vám nalejí v distingované Akademické kavárně nebo chladném intimním sklípku U Mnicha. (Gorkého 11, Pekařská 70) | Pěknou strohou kavárnu Švanda v pasáži Alfa mají v oblibě lidé okolo HaDivadla – nenechejte se zmást názvem, chodí se sem spíš za alkoholem než kofeinem, a to už od dopoledne. (Poštovská 8) | Legendární Salon Daguerre ztratil po změně majitele a přejmenování na Ducks Deluxe pestrou studentsko-umělecko-gay klientelu, pořád mu ale zbývají překrásné dvoupatrové prostory někdejšího lékárnického bytu, s táflováním a art deco krbem. (Slovákova 1) | Na procházce směrem do Kamenné kolonie se načněte v Paláci Prigl a v Kamence pak užívejte života v Duck baru, onehdá spíše omylem v anketě na iDnes vyhlášeném nejlepší hospodou v Brně. (Křížová 20, Kamenná kolonie 10c) | Z barů a klubů otevřeně cílících na lesby a gaye vystupuje nedávno přestěhované Áčko. (Pekařská 80)
 
-## Potraviny
+## Lahůdky
 
 Upřímně: nevidím nic špatného na tom koupit si v tesku dva rohlíky a deset deka gothaje v akci. Trend bio/local/fresh už mi leze krkem. Rád bych proto cynicky připomněl, že nakupováním v následujících obchodech patrně neuchráníte své tělo před rakovinou, nezachráníte planetu před externalitami potravinářského průmyslu a nejspíš už ani nikoho neoslníte, nakupují tam totiž všichni.
 
@@ -1698,7 +1698,7 @@ Centrum je skvělé místo, když chcete večer zajít na pivo; bydlení si tu a
 
 ### Veveří
 
-Člověk přejde Žerotínovo nebo Moravské náměstí a rázem je v nejlepší čtvrti pro život. Tedy pokud máte podobné potřeby jako já: na Veveří funguje několik fakult, díky kterým je tak živo ve zdejších nesčetných kavárnách. Lenošit můžete přes léto v Tyršově sadu, nejstarším českém veřejném parku Lužánkách nebo na Obilním trhu, a když vás Veveří omrzí, je to kousek jak pěšky do centra a na hlavní nádraží, tak tramvají na druhou stranu na přehradu.
+Člověk přejde Žerotínovo nebo Moravské náměstí a rázem je v nejlepší čtvrti pro život. Tedy pokud máte podobné potřeby jako já: na Veveří funguje několik fakult, díky kterým je tak živo ve zdejších nesčetných kavárnách. Lenošit můžete přes léto v Tyršově sadu, v nejstarším českém veřejném parku Lužánkách nebo na Obilním trhu, a když vás Veveří omrzí, je to kousek jak pěšky do centra a na hlavní nádraží, tak tramvají na druhou stranu na přehradu.
 
 ### Staré Brno
 
@@ -1896,12 +1896,6 @@ Brněnský architektonický manuál ([bam.brno.cz](http://bam.brno.cz)) — prů
 
 Kafélanka ([kafelanka.cz](http://kafelanka.cz)) — pečlivě vychozený a vylezený katalog bunkrů, propustků a dalších pokladů ztrácejících se v náletových dřevinách.
 
-Urbanismus Brno ([urbanismusbrno.cz](http://urbanismusbrno.cz)) — živý blog o brněnské architektuře a, světe div se, urbanismu.
-
-Cliche Brünn ([cliche-brunn.cz](http://cliche-brunn.cz)) — blog kavarenských povalečů zachycující o kultuře v kavárnách a kavárenské kultuře. Včetně katalogu kaváren.
-
-Ahoj Brno ([ahojbrno.cz](http://ahojbrno.cz)) — užitečné jsou tipy na aktuální výstavy a akce.
-
 Prigl ([prigl.cz](http://prigl.cz)) — ohromně zábavný průvodce nízkopříjmovým Brnem, hernami, putykami, videopůjčovnami… Nepřehlédněte mapu haluzí.
 
 Digitalizované staré mapy Moravy a města Brna ([vilemwalter.cz/mapy](http://vilemwalter.cz/mapy)) — výjimečný archiv desítek detailně naskenovaných map z 19. a první půlky 20. století.
@@ -1914,11 +1908,17 @@ Michal Sänger foodblog ([sanger.foodblogs.cz](http://sanger.foodblogs.cz)) — 
 
 Samé dobré věci ([samedobreveci.blogspot.cz](http://samedobreveci.blogspot.cz)) — tipy na nové podniky v Brně a okolí, pěkné fotky.
 
-Chilli Julie ([chillijulie.cz](http://chillijulie.cz)) — Julie udělala před několikalety z kávy a jídla v Brně Téma. Svůj blog už aktualizuje jen sporadicky, archivy ale pořád skrývají spoustu čtení.
+Chilli Julie ([chillijulie.cz](http://chillijulie.cz)) — Julie udělala před několi kalety z kávy a jídla v Brně Téma. Svůj blog už aktualizuje jen sporadicky, archivy ale pořád skrývají spoustu čtení.
 
 Streets of Brno ([streetsofbrno.blogspot.cz](http://streetsofbrno.blogspot.cz)) — pěkný blog zachycující pouliční módu.
 
 Město hudby ([www.mestohudby.cz](http://www.mestohudby.cz)) — s ohromnou pečlivostí připravovaný web o koncertech, hudebnících a kulturní politice.
+
+Urbanismus Brno ([urbanismusbrno.cz](http://urbanismusbrno.cz)) — živý blog o brněnské architektuře a, světe div se, urbanismu.
+
+Cliche Brünn ([cliche-brunn.cz](http://cliche-brunn.cz)) — blog kavarenských povalečů zachycující o kultuře v kavárnách a kavárenské kultuře. Včetně katalogu kaváren.
+
+Ahoj Brno ([ahojbrno.cz](http://ahojbrno.cz)) — užitečné jsou tipy na aktuální výstavy a akce.
 
 ## Tiráž 
 
